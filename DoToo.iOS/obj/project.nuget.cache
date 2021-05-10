@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlKpJbHeJFbeOWVBI1gc7+srjAVQldJXvdpJFygMZr+ks4omQGCJypWiT0qmKtZW5RzYQOh6TxPlgQ1fClxG8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abrar Galib\\source\\repos\\DoToo-master\\DoToo-master\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\fody\\6.4.0\\fody.6.4.0.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\propertychanged.fody\\3.3.3\\propertychanged.fody.3.3.3.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.11\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Abrar Galib\\.nuget\\packages\\xamarin.forms\\3.4.0.1009999\\xamarin.forms.3.4.0.1009999.nupkg.sha512"
+  ],
+  "logs": []
+}
